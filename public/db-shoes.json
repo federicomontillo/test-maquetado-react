@@ -1,0 +1,17 @@
+[
+    {"id": 1,  "name": "Zapatilla 1-XFK",  "category": "shoes", "price": "5000", "waist": "38", "color": "white", "img": "https://i.postimg.cc/d17HgCbj/zapatilla-1.jpg"},
+    {"id": 2,  "name": "Zapatilla 1-XFK",  "category": "shoes", "price": "5000", "waist": "40", "color": "white", "img": "https://i.postimg.cc/d17HgCbj/zapatilla-1.jpg"},
+    {"id": 3,  "name": "Zapatilla 1-XFK",  "category": "shoes", "price": "5000", "waist": "44", "color": "white", "img": "https://i.postimg.cc/d17HgCbj/zapatilla-1.jpg"},
+    {"id": 4,  "name": "Zapatilla 2000-X", "category": "shoes", "price": "9900", "waist": "44", "color": "black", "img": "https://i.postimg.cc/yxcf8HYJ/zapatilla-2.jpg"},
+    {"id": 5,  "name": "Zapatilla 2000-X", "category": "shoes", "price": "9900", "waist": "38", "color": "black", "img": "https://i.postimg.cc/yxcf8HYJ/zapatilla-2.jpg"},
+    {"id": 6,  "name": "Zapatilla 2000-X", "category": "shoes", "price": "9900", "waist": "42", "color": "black", "img": "https://i.postimg.cc/yxcf8HYJ/zapatilla-2.jpg"},
+    {"id": 7,  "name": "Zapatilla 3 Run",  "category": "shoes", "price": "6500", "waist": "40", "color": "black", "img": "https://i.postimg.cc/xjzpRKy0/zapatilla-3.jpg"},
+    {"id": 8,  "name": "Zapatilla 3 Run",  "category": "shoes", "price": "6500", "waist": "39", "color": "black", "img": "https://i.postimg.cc/xjzpRKy0/zapatilla-3.jpg"},
+    {"id": 9,  "name": "Zapatilla 3 Run",  "category": "shoes", "price": "6500", "waist": "42", "color": "black", "img": "https://i.postimg.cc/xjzpRKy0/zapatilla-3.jpg"},
+    {"id": 10, "name": "Zapatilla 3 Run",  "category": "shoes", "price": "6500", "waist": "41", "color": "black", "img": "https://i.postimg.cc/xjzpRKy0/zapatilla-3.jpg"},
+    {"id": 11, "name": "Zapatilla 2000-X", "category": "shoes", "price": "9900", "waist": "40", "color": "black", "img": "https://i.postimg.cc/yxcf8HYJ/zapatilla-2.jpg"},
+    {"id": 12, "name": "Zapatilla 1-XFK",  "category": "shoes", "price": "5000", "waist": "36", "color": "white", "img": "https://i.postimg.cc/d17HgCbj/zapatilla-1.jpg"},
+    {"id": 13,  "name": "Botitas 2000-X", "category": "botas", "price": "9900", "waist": "44", "color": "black", "img": "https://i.postimg.cc/yxcf8HYJ/zapatilla-2.jpg"},
+    {"id": 14,  "name": "Botitas 2000-X", "category": "botas", "price": "9900", "waist": "38", "color": "black", "img": "https://i.postimg.cc/yxcf8HYJ/zapatilla-2.jpg"},
+    {"id": 15,  "name": "Botitas 2000-X", "category": "botas", "price": "9900", "waist": "42", "color": "black", "img": "https://i.postimg.cc/yxcf8HYJ/zapatilla-2.jpg"}
+]
